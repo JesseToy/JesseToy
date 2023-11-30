@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+
+## 📫 How to reach me: jtoy99@gmail.com
+
 
 <!--
 **JesseToy/JesseToy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
