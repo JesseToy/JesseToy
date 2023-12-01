@@ -1,6 +1,6 @@
 ## Hello! I'm Jesse 👋
 
-### 🌱 I’m currently learning React and GO
+### 🌱 I’m currently learning React and Python
 ### ⚡ Visit my site https://jessetoy.com
 
 ### 📫 You can reach me at jtoy99@gmail.com
