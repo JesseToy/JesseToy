@@ -1,7 +1,4 @@
-## Hello! I'm Jesse 👋
-
-### 🌱 I’m currently learning React!
-### ⚡ Visit my site https://jessetoy.com
+## Hello! I'm Jesse 👋 
 
 ### 📫 You can reach me at jtoy99@gmail.com
 
